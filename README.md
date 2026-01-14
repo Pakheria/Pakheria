@@ -51,13 +51,6 @@
 
 ---
 
-<div align="center">
-  <h3>GitHub Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=pakheria&show_icons=true&locale=en&theme=tokyonight" alt="pakheria" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pakheria&theme=tokyonight" alt="pakheria" />
-</div>
-
 <br />
 
 <div align="center">
